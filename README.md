@@ -11,4 +11,5 @@ Key Steps:
 Training the Random Forest Regressor
 7)Model Test Accuracy
 8)Making Predictions:
-Displaying Prediction Output as Media
+ 
+<img width="682" height="588" alt="Screenshot (120)" src="https://github.com/user-attachments/assets/45a234fd-f165-4e46-9e1d-d103d21cd48e" />
